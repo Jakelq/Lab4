@@ -62,6 +62,9 @@ int main() {
   system("pause");
   cout << endl;
 
+  /* Creating new vector with manually input elements
+   * Uses std::sort to sort elements from begin() to end() from least to greatest
+   */
   vector<short> second_vector(5);
   second_vector = { 21, 65, 17, 12, 94 };
   cout << "Print values of second_vector" << endl << endl;
