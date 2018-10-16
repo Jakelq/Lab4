@@ -1,6 +1,6 @@
 # Lab4
 
-#Jacob Leuquire
-#COSC 2030 Lab 4
-#October 8, 2018
-#Lab shows some basic uses for vectors
+Jacob Leuquire \n
+COSC 2030 Lab 4 \n
+October 8, 2018 \n
+Lab shows some basic uses for vectors
