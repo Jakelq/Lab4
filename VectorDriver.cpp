@@ -24,7 +24,7 @@ int main() {
   cout << endl << "   ..::  E N D   S A M P L E  C O D E  ::.." << endl;
  */
  
-  cout << endl << "		BEGIN MY CODE	" << endl << endl;
+  //cout << endl << "		BEGIN MY CODE	" << endl << endl;
   vector<short> first_vector(0);
 
   cout << "New empty vector: ";
