@@ -1,4 +1,4 @@
-/* Edited by Jacob Leuquire
+/* Author: Jacob Leuquire
  * October 8, 2018
  * File goes over some basic uses of a vector
  */
