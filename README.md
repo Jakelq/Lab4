@@ -8,4 +8,4 @@ October 8, 2018
 
 Lab shows some basic uses for vectors
 
-Both add_number calls create 10 new random values that are placed in the end of the existing vector.
+Both add_number calls each create 10 new random values that are placed in the end of the existing vector.
